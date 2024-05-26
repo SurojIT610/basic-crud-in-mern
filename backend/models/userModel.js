@@ -12,6 +12,7 @@ const userSchema = new mongoose.Schema({
     },
     age: {
         type: Number
+        // bal
     },
 },{timestamps:true});
 
